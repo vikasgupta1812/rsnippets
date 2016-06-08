@@ -3,7 +3,6 @@ R Snippets
 
 Interesting Snippets of R language from blogs around the world
 
-  ![][40]    [data][41]
 [data][42]
 [is.R][44]
 [95-confidence.R][46]
