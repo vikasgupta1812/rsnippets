@@ -9,7 +9,7 @@ Interesting Snippets of R language from blogs around the world
 * [95-confidence.R][46]
 * [README.md][48]
 * [Rcpp-bench.R][50]
-* [adjusting-text-plots-part1.R][52]
+* [adjusting-text-plots-part1.R][52] [Textual Healing](http://is-r.tumblr.com/post/35699866752/textual-healing)
 * [adjusting-text-plots-part2.R][54]
 * [analysis-social-networks.R][56]
 * [anand-carlsen-chess-analysis.R][58]
